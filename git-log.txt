@@ -1,0 +1,67 @@
+commit 3b12a56f083cb4e76aa435cdd49cb634d79a4520
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Tue Sep 27 15:59:43 2016 +0200
+
+    detection of duplicate bullet events that occur in ETTV demos
+
+commit 706a75fe3611201157116b0254c41825979721b9
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 21:54:08 2016 +0000
+
+    scons
+
+commit 5b96fb14dc06143998e00388d62fd358835812a4
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 23:49:36 2016 +0200
+
+    boost depen. remove
+
+commit 3c50ccc5874f955cf60263467b00356304a293b1
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 23:45:43 2016 +0200
+
+    unistd
+
+commit 801b7c0293f12ce3c9da5249e734660ef7acb058
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 23:45:00 2016 +0200
+
+    Revert "unistd include for usleep"
+    
+    This reverts commit 39eb337c443ec4bc849d76dab33b6feeaec9b2d4.
+
+commit 39eb337c443ec4bc849d76dab33b6feeaec9b2d4
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 23:43:41 2016 +0200
+
+    unistd include for usleep
+
+commit 77378b741ae42721c9d8afc41e9b4d52bdfc1ca6
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 23:35:41 2016 +0200
+
+    extra qualification fix
+
+commit 947721002bea50349c0d515af27fdf65b3e5e785
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 20:45:09 2016 +0200
+
+    arty remove and pov entity
+
+commit 1320ee40b46aa1163e4980af4837995061506f3a
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Sat Sep 3 20:19:41 2016 +0200
+
+    ettv pov export, cut from args
+
+commit 9aac6750ea2be9cd93fcc9746c24fb07ad64ae7b
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Wed Apr 6 14:07:46 2016 +0200
+
+    building
+
+commit 4bfc19877274472aead1632acdc53bfd3a7834a5
+Author: Michal Mitter <mittermichal@gmail.com>
+Date:   Wed Mar 23 15:27:30 2016 +0100
+
+    received from hannes
