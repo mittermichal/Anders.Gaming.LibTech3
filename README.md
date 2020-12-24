@@ -15,7 +15,7 @@ used by [Wolfenstein: Enemy Territory demo tools](http://178.62.235.156:5111/)
 
 # Usage
 
-##cut
+## cut
 cuts demo
 
 Anders.Gaming.LibTech3 cut demo_path output_path start end cut_type (client_num)
@@ -30,7 +30,7 @@ client_num is ignored if it's POV demo
 example:
 Anders.Gaming.LibTech3.exe demo01-10-31.tv_84 demo01-10-31.dm_84 56621000 56632000 1 0
 
-##indexer
+## indexer
 parses demo
 
 Anders.Gaming.LibTech3 indexer options
@@ -48,6 +48,8 @@ where options are:
 	exportSQLFile = out.db
 	logFile = stdout
 	exportPaths = 0
+	exportEntityType = -1
+        exportEventType = -1
 
 	indexType = demo
 	indexTarget
