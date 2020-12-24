@@ -49,8 +49,7 @@ where options are:
 	logFile = stdout
 	exportPaths = 0
 	exportEntityType = -1
-        exportEventType = -1
-
+	exportEventType = -1
 	indexType = demo
 	indexTarget
 
