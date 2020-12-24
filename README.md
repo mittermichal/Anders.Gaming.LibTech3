@@ -50,6 +50,8 @@ where options are:
 	exportPaths = 0
 	exportEntityType = -1
 	exportEventType = -1
+	exportStart = -1 // export time interval
+        exportEnd = -1   //
 	indexType = demo
 	indexTarget
 
